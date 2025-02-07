@@ -2,11 +2,11 @@ import { useState, useEffect } from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import 'react-responsive-carousel/lib/styles/carousel.min.css'; // Carousel styles
-import venos1 from "./Images/banner-africa-2.jpg";
-import venos2 from "./Images/donation.jpg";
-import venos3 from "./Images/group.jpg";
-import venos4 from "./Images/happychildren.jpg";
-import venosLogo from "./Images/VenosLogo.png";
+import venos1 from "./images/banner-africa-2.jpg";
+import venos2 from "./images/donation.jpg";
+import venos3 from "./images/group.jpg";
+import venos4 from "./images/happychildren.jpg";
+import venosLogo from "./images/VenosLogo.png";
 import CausesSection from "./causes";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHandHoldingDollar } from '@fortawesome/free-solid-svg-icons';

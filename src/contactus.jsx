@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Confetti from 'react-confetti'; // Make sure to install this package
-import africa1 from './Images/africa1.jpg';
-import donation from './Images/donation.jpg';
+import africa1 from './images/africa1.jpg';
+import donation from './images/donation.jpg';
 import './contact.css';
 
 const ContactDonation = () => {

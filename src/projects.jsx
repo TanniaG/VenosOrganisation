@@ -1,13 +1,13 @@
 import React from 'react';
 import { useState } from 'react';
-import albinokids from "./Images/albino.jpg";
-import community from "./Images/community.jpg";
-import communityposter from "./Images/communityposter.jpg";
-import donation from "./Images/donation.jpg";
-import pic1 from "./Images/image1.jpg";
-import pic2 from "./Images/image2.jpg";
-import pic3 from "./Images/image3.jpg";
-import christmas from "./Images/xmas.jpg";
+import albinokids from "./images/albino.jpg";
+import community from "./images/community.jpg";
+import communityposter from "./images/communityposter.jpg";
+import donation from "./images/donation.jpg";
+import pic1 from "./images/image1.jpg";
+import pic2 from "./images/image2.jpg";
+import pic3 from "./images/image3.jpg";
+import christmas from "./images/xmas.jpg";
 
 const projects = [
     {

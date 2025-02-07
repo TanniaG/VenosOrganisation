@@ -1,7 +1,7 @@
 import { useState } from "react";
-import educationImg from "./Images/school.jpg";
-import inspireImg from "./Images/albino.jpg";
-import povertyImg from "./Images/xmas.jpg";
+import educationImg from "./images/school.jpg";
+import inspireImg from "./images/albino.jpg";
+import povertyImg from "./images/xmas.jpg";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGraduationCap, faLightbulb, faHandHoldingHeart } from '@fortawesome/free-solid-svg-icons'; // Import Font Awesome icons
 

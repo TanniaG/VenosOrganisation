@@ -1,19 +1,19 @@
 import React from 'react';
 import { Navigation } from './App';
-import us from "./Images/image4.jpg";
-import work from "./Images/image5.jpg";
-import impact from "./Images/image6.jpg";
-import school from "./Images/school.jpg";
+import us from "./images/image4.jpg";
+import work from "./images/image5.jpg";
+import impact from "./images/image6.jpg";
+import school from "./images/school.jpg";
 import './aboutus.css';
 import anim1 from "./animations/alms.gif";
 import anim2 from "./animations/charity.gif";
 import kind from "./animations/kindness.gif";
 import talk from "./animations/talk.gif";
-import andrew from "./Images/andrew.jpg";
-import cyrus from "./Images/cyrus.jpg";
-import henry from "./Images/henry.jpg";
-import joshua from "./Images/joshua.jpg";
-import carolynne from "./Images/caro.jpg";
+import andrew from "./images/andrew.jpg";
+import cyrus from "./images/cyrus.jpg";
+import henry from "./images/henry.jpg";
+import joshua from "./images/joshua.jpg";
+import carolynne from "./images/caro.jpg";
 
 const AboutUs = () => {
   return (
