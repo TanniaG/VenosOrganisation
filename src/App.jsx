@@ -15,7 +15,7 @@ import CountUp from 'react-countup';
 import AboutUs from './aboutus'; 
 import Projects from './projects'; 
 import ContactDonation from './contactus';
-import './App.css';
+import './index.css';
 
 // Navigation Component
 export const Navigation = () => {
@@ -197,15 +197,15 @@ const Footer = () => {
           {/* Social Media */}
           <div className="mb-6 md:mb-0 md:w-1/4">
             <h3 className="text-lg font-bold mb-2">Connect With Us</h3>
-            <div className="flex space-x-4">
+            <div className="flex space-x-4 ">
               <a href="https://www.facebook.com/people/Venos-Org/100067622284991" target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={faFacebook} className="text-2xl hover:text-blue-600" /> 
+              <FontAwesomeIcon icon={faFacebook} className="text-zinc-500 text-2xl hover:text-blue-600" /> 
               </a>
               <a href="https://www.facebook.com/people/Venos-Org/100067622284991" target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={faInstagram} className="text-2xl hover:text-pink-500" />
+              <FontAwesomeIcon icon={faInstagram} className="text-zinc-500 text-2xl hover:text-pink-500" />
               </a>
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-              <FontAwesomeIcon icon={faLinkedin} className="text-2xl hover:text-blue-700" />
+              <FontAwesomeIcon icon={faLinkedin} className="text-zinc-500 text-2xl hover:text-blue-700" />
               </a>
             </div>
           </div>
