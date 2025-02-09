@@ -201,7 +201,7 @@ const Footer = () => {
               <a href="https://www.facebook.com/people/Venos-Org/100067622284991" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faFacebook} className="text-zinc-500 text-2xl hover:text-blue-600" /> 
               </a>
-              <a href="https://www.facebook.com/people/Venos-Org/100067622284991" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/venos_organisation" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faInstagram} className="text-zinc-500 text-2xl hover:text-pink-500" />
               </a>
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
